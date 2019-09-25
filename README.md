@@ -15,6 +15,7 @@ Recipe attribute | Details
 -----------------|--------------
 Title            | Title of the Recipe
 Description      | Short description 
+Date             | Date the recipe was added. YYY-MM-DD
 URL              | If recipe was from a site, link the url
 Prep Time        | Prep time in minutes
 Cook Time        | Cook time in minutes
@@ -32,6 +33,7 @@ Tags             | Tags or Categories
 {
     "title": "Easy Smoked Chicken Breasts",
      "description": "Easy smoked chicken breasts on a traeger smoker that with a few tricks turn out perfectly tender, moist and unlike other chicken breast recipes, totally flavorful chicken breasts!",
+     "date": "2019-08-25"
      "url": "https://ohsweetbasil.com/easy-smoked-chicken-breast-on-a-traeger-recipe/",
      "prepTime":"15 minutes",
      "cookTime":"25 minutes",
@@ -43,7 +45,7 @@ Tags             | Tags or Categories
          "Sprinkle the rub on top of the chicken breasts liberally. Allow to rest in the fridge for 15 minutes, or up to 30 minutes (place plastic wrap over the top if over 15 minutes of rest time.)",
          "Heat a smoker on smoke (on traeger use the super smoke) with the lid opened for 5 minutes. Turn the heat to 350 degrees and close the lid for 15 minutes while it warms up.",
          "Put the chicken, spiced side down on the grill and liberally season the underside of the chicken. Cook for 12-13 minutes with the lid closed.",
-         "urn the chicken over and cook another 10-12 minutes or until cooked to 165-170 degrees.",
+         "Turn the chicken over and cook another 10-12 minutes or until cooked to 165-170 degrees.",
          "Remove the chicken from the grill and lay foil over the top on a cutting board. Let the chicken rest for 3-5 minutes before slicing."
      ],
      "notes":"",
