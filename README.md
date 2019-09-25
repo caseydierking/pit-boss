@@ -1,6 +1,4 @@
-<img src="https://hacktoberfest.digitalocean.com/pretty_logo.png" alt="drawing" width="200"/>
-
-# Pitt-Boss BBQ Smoker Recipes
+# Pit-Boss BBQ Smoker Recipes
 
 An awesome list of amazing recipes you can try on your smoker. This list was inspired by the [JSON Movie Collection list](https://github.com/jsonmc/jsonmc). 
 
