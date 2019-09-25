@@ -35,7 +35,7 @@ Tags             | Tags or Categories
 {
     "title": "Easy Smoked Chicken Breasts",
      "description": "Easy smoked chicken breasts on a traeger smoker that with a few tricks turn out perfectly tender, moist and unlike other chicken breast recipes, totally flavorful chicken breasts!",
-     "date": "2019-08-25"
+     "date": "2019-08-25",
      "url": "https://ohsweetbasil.com/easy-smoked-chicken-breast-on-a-traeger-recipe/",
      "prepTime":"15 minutes",
      "cookTime":"25 minutes",
