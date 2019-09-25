@@ -1,6 +1,6 @@
 # Pit-Boss BBQ Smoker Recipes
 
-An awesome list of amazing recipes you can try on your smoker. This list was inspired by the [JSON Movie Collection list](https://github.com/jsonmc/jsonmc). 
+An awesome list of amazing recipes you can try on your smoker. This list was inspired by the [JSON Movie Collection list](https://github.com/jsonmc/jsonmc). Note: This list is not affiliated with Pit Boss Grills.
 
 ## Contributing
 
