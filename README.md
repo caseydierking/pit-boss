@@ -4,8 +4,7 @@ An awesome list of amazing recipes you can try on your smoker. This list was ins
 
 ## Contributing
 
-The hope of this repo is to build one awesome list of recipies for you to use in your own home cooking or build into your app. It is also intended to be very beginner friendly for those who are still learning about open source.
-
+The goal of this repo is to build one awesome list of recipies for you to use in your own home cooking or build into your app. It is also intended to be very beginner friendly for those who are still learning about open source. 
 
 ### A recipe should have the attributes below:
 
