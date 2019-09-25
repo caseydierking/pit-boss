@@ -15,6 +15,7 @@ Title            | Title of the Recipe
 Description      | Short description 
 Date             | Date the recipe was added. YYY-MM-DD
 URL              | If recipe was from a site, link the url
+ImageURL         | Every recipe should have an image. The image name should match the title with hyphens if there are spaces.
 Prep Time        | Prep time in minutes
 Cook Time        | Cook time in minutes
 Total Time       | Prep Time + Cook Time in minutes
@@ -29,10 +30,11 @@ Tags             | Tags or Categories
 
 ```json
 {
-  "title":"Easy Smoked Chicken Breasts",
+  "title":"Easy Smoked Chicken Breast",
   "description":"Easy smoked chicken breasts on a traeger smoker that with a few tricks turn out perfectly tender, moist and unlike other chicken breast recipes, totally flavorful chicken breasts!",
   "date":"2019-08-25",
   "url":"https://ohsweetbasil.com/easy-smoked-chicken-breast-on-a-traeger-recipe/",
+  "imageUrl":"images/easy-smoked-chicken-breast.jpg",
   "prepTime":"15 minutes",
   "cookTime":"25 minutes",
   "totalTime":"40 minutes",
