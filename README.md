@@ -2,6 +2,7 @@
 
 An awesome list of amazing recipes you can try on your smoker. This list was inspired by the [JSON Movie Collection list](https://github.com/jsonmc/jsonmc). Note: This list is not affiliated with Pit Boss Grills.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/caseydierking/pit-boss/badge)](https://www.codefactor.io/repository/github/caseydierking/pit-boss)
 ## Demo
 I have aquired the domain pittboss.recipes and will be getting that setup in the near future. I'm kind of waiting to see what we develop for a front end before doing this. 
 
