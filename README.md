@@ -4,7 +4,7 @@ An awesome list of amazing recipes you can try on your smoker. This list was ins
 
 [![CodeFactor](https://www.codefactor.io/repository/github/caseydierking/pit-boss/badge)](https://www.codefactor.io/repository/github/caseydierking/pit-boss)
 ## Demo
-I have aquired the domain pittboss.recipes and will be getting that setup in the near future. I'm kind of waiting to see what we develop for a front end before doing this. 
+I have acquired the domain pitboss.recipes and will be getting that setup in the near future. I'm kind of waiting to see what we develop for a front end before doing this. 
 
 ## Contributing
 
