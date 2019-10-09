@@ -1,0 +1,33 @@
+{
+  "title": "Black Bean Burger",
+  "description": "Black bean burgers that don’t fall apart, taste awesome and are even vegan-friendly! What could be more BBQ perfect? Time to get the grill on.",
+  "date": "2019-10-09",
+  "url": "https://hurrythefoodup.com/black-bean-burgers/",
+  "imageUrl": "images/black-bean-burger.jpg",
+  "prepTime": "10 minutes",
+  "cookTime": "10 hours",
+  "totalTime": "20 minutes",
+  "servings": 8,
+  "directions": [
+    "Rinse and drain the black beans. Place in a large mixing bowl and blend with a hand blender. Alternatively, crush the beans with a fork/masher.",
+    "Dice the red onion and sundried tomatoes and add to the bowl.",
+    "Next, add the oats, eggs, salt, cumin, paprika, olive oil. Give it a good stir.",
+    "Finally, add the breadcrumbs a little at a time until you’re left with a nice, firm mixture. If you don’t need to use all the breadcrumbs, that’s totally fine.",
+    "Mould the mixture into burger patties. Wet your hands if it's too sticky.",
+    "Fry in a little oil in a pan, or place on a BBQ/grill. Cook for about 5 minutes on each side, turning occasionally. Serve with your favourite burger ingredients - a bun, lettuce, tomato, cheese - whatever you fancy!"
+  ],
+  "notes": "",
+  "ingredients": [
+    "1/2 cup rolled oats",
+    "2 eggs (use 'flax' eggs to make vegan. One flax egg = 1 tbsp flax seeds mixed with 3 tbsp hot water and stirred)",
+    "1 can black beans (1 regular can = 15oz = 425g)",
+    "1/2 tsp salt",
+    "1 + 1/2 tsp cumin",
+    "1 tsp paprika",
+    "1/2 medium red onion",
+    "2 tbsp olive oil",
+    "1/2 cup sun-dried tomatoes in oil",
+    "1/2 cup dried breadcrumbs"
+  ],
+  "tags": ["barbecue burger", "veggie burger", "veggie"]
+}
